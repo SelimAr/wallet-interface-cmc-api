@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+        "balance": "2,0124"
+    },
+    {
+        "id": 2,
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "balance": "6,5648"
+    },
+    {
+        "id": 3,
+        "name": "Solana",
+        "symbol": "SOL",
+        "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+        "balance": "10,9461"
+    },
+    {
+        "id": 4,
+        "name": "USDt",
+        "symbol": "USDT",
+        "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+        "balance": "28,2300"
+    },
+    {
+        "id": 5,
+        "name": "USDc",
+        "symbol": "USDC",
+        "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+        "balance": "8,4505"
+    },
+    {
+        "id": 6,
+        "name": "BNB",
+        "symbol": "BNB",
+        "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+        "balance": "1,9145"
+    },
+    {
+        "id": 7,
+        "name": "XRP",
+        "symbol": "XRP",
+        "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+        "balance": "4,1345"
+    },
+    {
+        "id": 8,
+        "name": "Polkadot",
+        "symbol": "DOT",
+        "img": "https://s2.coinmarketcap.com/static/cloud/img/logo/polkadot/Polkadot_Logo_Animation_64x64.gif",
+        "balance": "67,1459"
+    },
+    {
+        "id": 9,
+        "name": "Cosmos",
+        "symbol": "ATOM",
+        "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
+        "balance": "98,1466"
+    },
+    {
+        "id": 10,
+        "name": "Stellar",
+        "symbol": "XLR",
+        "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
+        "balance": "117,1542"
+    }
+]
